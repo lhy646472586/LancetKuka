@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+F:\KUKA\LancetKuka\.metadata\.plugins\org.eclipse.jdt.core
+2620354589.index
+4115530074.index
+4043888314.index
+1130921681.index
+4114554298.index
+2011407766.index
+1531278041.index
+203438927.index
+2424102365.index
+3074051399.index
+4037348974.index

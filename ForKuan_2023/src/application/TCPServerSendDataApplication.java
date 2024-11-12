@@ -5561,6 +5561,15 @@ else if(nToolMode==40){
 					}
 					nWorkingmode=0;
 			}
+			else if(nWorkingmode==10){
+				jointPos_register =new JointPosition(   Math.toRadians(-105.53),
+						Math.toRadians(37.23),
+						Math.toRadians(20.17),
+						Math.toRadians(100.86),
+						Math.toRadians(74.33),
+						Math.toRadians(-60.81),
+						Math.toRadians(49.51));
+			}
 			
 			else{
 				
