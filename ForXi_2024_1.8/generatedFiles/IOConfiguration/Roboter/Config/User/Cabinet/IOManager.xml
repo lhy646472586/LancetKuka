@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IOManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version Label="">
+    <Info Version="IOManager V0.1.0" />
+    <Schema Version="1" />
+  </Version>
+  <WarnMultipleUsageOfInputs printWarning="false" />
+  <BusList>
+    <Bus BusDriverName="ECatIODriver" BusInstanceName="SYS-X44">
+      <IOList>
+        <DigitalIO Name="MytestIO.Input1" Type="INPUT" Scope="USER_IO" StartBit="320" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input2" Type="INPUT" Scope="USER_IO" StartBit="321" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input3" Type="INPUT" Scope="USER_IO" StartBit="322" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input5" Type="INPUT" Scope="USER_IO" StartBit="323" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input4" Type="INPUT" Scope="USER_IO" StartBit="324" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input6" Type="INPUT" Scope="USER_IO" StartBit="325" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input7" Type="INPUT" Scope="USER_IO" StartBit="326" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input8" Type="INPUT" Scope="USER_IO" StartBit="327" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input9" Type="INPUT" Scope="USER_IO" StartBit="328" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input10" Type="INPUT" Scope="USER_IO" StartBit="329" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input11" Type="INPUT" Scope="USER_IO" StartBit="330" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input12" Type="INPUT" Scope="USER_IO" StartBit="331" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input13" Type="INPUT" Scope="USER_IO" StartBit="332" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input14" Type="INPUT" Scope="USER_IO" StartBit="333" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input15" Type="INPUT" Scope="USER_IO" StartBit="334" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input16" Type="INPUT" Scope="USER_IO" StartBit="335" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output1" Type="OUTPUT" Scope="USER_IO" StartBit="12576" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output2" Type="OUTPUT" Scope="USER_IO" StartBit="12577" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output3" Type="OUTPUT" Scope="USER_IO" StartBit="12578" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output4" Type="OUTPUT" Scope="USER_IO" StartBit="12579" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output5" Type="OUTPUT" Scope="USER_IO" StartBit="12580" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output6" Type="OUTPUT" Scope="USER_IO" StartBit="12581" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output7" Type="OUTPUT" Scope="USER_IO" StartBit="12582" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output8" Type="OUTPUT" Scope="USER_IO" StartBit="12583" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output9" Type="OUTPUT" Scope="USER_IO" StartBit="12584" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output10" Type="OUTPUT" Scope="USER_IO" StartBit="12585" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output11" Type="OUTPUT" Scope="USER_IO" StartBit="12586" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output12" Type="OUTPUT" Scope="USER_IO" StartBit="12587" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output13" Type="OUTPUT" Scope="USER_IO" StartBit="12588" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output14" Type="OUTPUT" Scope="USER_IO" StartBit="12589" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output15" Type="OUTPUT" Scope="USER_IO" StartBit="12590" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output16" Type="OUTPUT" Scope="USER_IO" StartBit="12591" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+      </IOList>
+    </Bus>
+	
+	 <Bus BusDriverName="ECatIODriver" BusInstanceName="SYS-X48">
+    <IOList>
+      <DigitalIO StartBit="249" Type="INPUT" Name="SIONCIB_SRGroup.Input1" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="250" Type="INPUT" Name="SIONCIB_SRGroup.Input2" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="251" Type="INPUT" Name="SIONCIB_SRGroup.Input3" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="252" Type="INPUT" Name="SIONCIB_SRGroup.Input4" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="253" Type="INPUT" Name="SIONCIB_SRGroup.Input5" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="254" Type="INPUT" Name="SIONCIB_SRGroup.Input6" BitSize="1" Scope="USER_IO" />
+      <DigitalIO StartBit="255" Type="INPUT" Name="SIONCIB_SRGroup.Input7" BitSize="1" Scope="USER_IO" />
+  </IOList>
+ </Bus>
+
+ <Bus BusDriverName="ECatIODriver" BusInstanceName="SYS-X48">
+  <IOList>
+      <DigitalIO StartBit="370" Type="INPUT" Name="MediaFlangeTouchMFTGroup.SIND_INPUT_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="371" Type="INPUT" Name="MediaFlangeTouchMFTGroup.SIND_INPUT_3" BitSize="1" Scope="SYSTEM_IO" />
+    </IOList>
+  </Bus>
+  
+  <Bus BusDriverName="PROFINETDriver" BusInstanceName="PNIO-DEV">
+    <IOList>
+      <DigitalIO StartBit="16" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="17" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="18" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="19" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="20" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="21" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="22" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="23" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE0_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="24" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="25" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="26" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="27" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="28" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="29" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="30" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="31" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE1_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="32" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="33" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="34" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="35" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="36" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="37" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="38" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="39" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE2_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="40" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="41" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="42" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="43" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="44" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="45" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="46" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="47" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE3_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="48" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="49" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="50" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="51" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="52" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="53" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="54" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="55" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE4_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="56" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="57" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="58" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="59" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="60" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="61" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="62" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="63" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE5_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="64" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="65" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="66" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="67" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="68" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="69" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="70" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="71" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE6_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="72" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="73" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="74" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="75" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="76" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="77" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="78" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="79" Type="INPUT" Name="ProfiNetDeviceGroup.PSI_BYTE7_7" BitSize="1" Scope="SYSTEM_IO" />
+
+      <DigitalIO StartBit="2184" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2185" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2186" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2187" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2188" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2189" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2190" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2191" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE0_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2192" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2193" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2194" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2195" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2196" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2197" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2198" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2199" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE1_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2200" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2201" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2202" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2203" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2204" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2205" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2206" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2207" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE2_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2208" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2209" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2210" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2211" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2212" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2213" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2214" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2215" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE3_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2216" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2217" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2218" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2219" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2220" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2221" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2222" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2223" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE4_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2224" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2225" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2226" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2227" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2228" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2229" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2230" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2231" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE5_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2232" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2233" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2234" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2235" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2236" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2237" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2238" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2239" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE6_7" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2240" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_0" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2241" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_1" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2242" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_2" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2243" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_3" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2244" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_4" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2245" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_5" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2246" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_6" BitSize="1" Scope="SYSTEM_IO" />
+      <DigitalIO StartBit="2247" Type="INPUT" Name="ProfiNetDeviceGroup.PSO_BYTE7_7" BitSize="1" Scope="SYSTEM_IO" />
+    </IOList>
+  </Bus>
+  
+  </BusList>
+</IOManager>

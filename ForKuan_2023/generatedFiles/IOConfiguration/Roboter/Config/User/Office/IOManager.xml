@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IOManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version Label="">
+    <Info Version="IOManager V0.1.0" />
+    <Schema Version="1" />
+  </Version>
+  <WarnMultipleUsageOfInputs printWarning="false" />
+  <BusList>
+    <Bus BusDriverName="ECatIODriver" BusInstanceName="SYS-X44">
+      <IOList>
+        <DigitalIO Name="MytestIO.Input1" Type="INPUT" Scope="USER_IO" StartBit="320" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input2" Type="INPUT" Scope="USER_IO" StartBit="321" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input3" Type="INPUT" Scope="USER_IO" StartBit="322" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input5" Type="INPUT" Scope="USER_IO" StartBit="323" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input4" Type="INPUT" Scope="USER_IO" StartBit="324" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input6" Type="INPUT" Scope="USER_IO" StartBit="325" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input7" Type="INPUT" Scope="USER_IO" StartBit="326" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input8" Type="INPUT" Scope="USER_IO" StartBit="327" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input9" Type="INPUT" Scope="USER_IO" StartBit="328" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input10" Type="INPUT" Scope="USER_IO" StartBit="329" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input11" Type="INPUT" Scope="USER_IO" StartBit="330" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input12" Type="INPUT" Scope="USER_IO" StartBit="331" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input13" Type="INPUT" Scope="USER_IO" StartBit="332" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input14" Type="INPUT" Scope="USER_IO" StartBit="333" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input15" Type="INPUT" Scope="USER_IO" StartBit="334" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Input16" Type="INPUT" Scope="USER_IO" StartBit="335" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output1" Type="OUTPUT" Scope="USER_IO" StartBit="12576" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output2" Type="OUTPUT" Scope="USER_IO" StartBit="12577" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output3" Type="OUTPUT" Scope="USER_IO" StartBit="12578" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output4" Type="OUTPUT" Scope="USER_IO" StartBit="12579" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output5" Type="OUTPUT" Scope="USER_IO" StartBit="12580" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output6" Type="OUTPUT" Scope="USER_IO" StartBit="12581" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output7" Type="OUTPUT" Scope="USER_IO" StartBit="12582" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output8" Type="OUTPUT" Scope="USER_IO" StartBit="12583" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output9" Type="OUTPUT" Scope="USER_IO" StartBit="12584" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output10" Type="OUTPUT" Scope="USER_IO" StartBit="12585" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output11" Type="OUTPUT" Scope="USER_IO" StartBit="12586" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output12" Type="OUTPUT" Scope="USER_IO" StartBit="12587" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output13" Type="OUTPUT" Scope="USER_IO" StartBit="12588" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output14" Type="OUTPUT" Scope="USER_IO" StartBit="12589" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output15" Type="OUTPUT" Scope="USER_IO" StartBit="12590" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+        <DigitalIO Name="MytestIO.Output16" Type="OUTPUT" Scope="USER_IO" StartBit="12591" BitSize="1" Signed="false">
+          <Description />
+        </DigitalIO>
+      </IOList>
+    </Bus>
+  </BusList>
+</IOManager>
